@@ -6,7 +6,7 @@ A fast, minimal **notes app** built with **HTML, CSS, and JavaScript**. Notes pe
 - Create, edit, delete notes
 - Auto-persist with localStorage (refresh-safe)
 - Search/filter notes
-- (Optional) Pin/star, color tags, last-edited timestamp
+- Pin/star, color tags, last-edited timestamp
 - Responsive layout
 
 ## 🧠 Tech Stack
